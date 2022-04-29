@@ -13,7 +13,7 @@ public class solver {
 	 * input the hint "- a - - x"(you have to include the space!)
 	 * it gives you the remaining options for the words
 	 * repeat 1-4
-	 * GOOD LUCK WITH WORDLE
+	 * GOOD LUCK WITH WORDLE!
 	 */
 	
 	public static ArrayList<Character> ban=new ArrayList<>();
